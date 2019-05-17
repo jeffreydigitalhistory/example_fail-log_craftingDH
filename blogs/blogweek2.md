@@ -1,11 +1,11 @@
-Week 2 Reflections:
+# Week 2 Reflections:
 
 TODO:
 
-Reflection on exercises:
+## Reflection on exercises:
 
 
-Reflection on readings: 
+## Reflection on readings: 
 
 
 Write a blog post describing what happened as you went through the exercises (your successes, your failures, the help you may have found/received),
