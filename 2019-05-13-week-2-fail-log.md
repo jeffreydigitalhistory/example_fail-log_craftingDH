@@ -3,14 +3,11 @@
 (Note: This is a scratch pad; record of commands, code written, memos to self of websites gone for help etc)
 
 ## Activities for this week:
-Writing in Markdown
-Using the DH Box command line
-
-Converting files with the command line
-
-Setting up GitHub
-
-Interacting with GitHub from the command line
+Writing in Markdown,
+Using the DH Box command line,
+Converting files with the command line,
+Setting up GitHub,
+Interacting with GitHub from the command line,
 
 
 Markdown:
