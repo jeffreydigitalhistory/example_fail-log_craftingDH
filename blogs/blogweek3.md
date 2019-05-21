@@ -2,6 +2,14 @@
 
 ## Reflection on exercises:
 
+Activities for this week:  
+- The Dream Case  
+- Wget  
+- Writing a program to extract data from a webpage  
+- Encoding transcribed text  
+- Collecting data from Twitter  
+- Coverting images to text with Tesseract  
+
 
 ## Reflection on readings: 
 
