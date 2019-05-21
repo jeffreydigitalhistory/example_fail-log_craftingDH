@@ -14,7 +14,7 @@ Markdown:
 I found Markdown to be very useful and interesting to learn! Coming from a Computer Science background, it reminds me of other markup languages such as HTML that has its own format for things. Overall, I didn't have too much trouble trying to figure things out and use it
 
 
-DHBox Command Line:
+DHBox Command Line:\n
 This was all fairly straightforward for me - I'm quite familiar with Linux commands but did find the Pandoc conversion tool to be a pretty cool things that I didnt know of before.
 *Useful commands from this exercise:*
 Installing pandoc: 
