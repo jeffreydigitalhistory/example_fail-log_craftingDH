@@ -1,6 +1,6 @@
-Week 3 Reflections:
+# Week 3 Reflections:
 
-Reflection on exercises:
+## Reflection on exercises:
 
 
-Reflection on readings: 
+## Reflection on readings: 
