@@ -4,7 +4,6 @@
 
 ## Activities for this week:
 Writing in Markdown
-
 Using the DH Box command line
 
 Converting files with the command line
