@@ -10,6 +10,7 @@ Activities for this week:
 - Collecting data from Twitter  
 - Coverting images to text with Tesseract  
 
+Ask yourself: what are some of the key dangers? Reflect: how have you used digitized resources uncritically in the past? Remember: To digitize doesn't — or shouldn't — mean uploading a photograph of a document. 
 
 ## Reflection on readings: 
 
