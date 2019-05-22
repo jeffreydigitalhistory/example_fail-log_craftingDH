@@ -27,16 +27,19 @@ What makes you believe this site is NOT a trustworthy provider of historical tex
 
 APIS
 
+Overall, a good exercise! I've dealt with third party APIs for other projects and work (Youtube, Paypal, etc) and so I'm familiar with the concepts that were trying to be taught. The last activity to get the data csv from a medieval search is taking too long (have been trying to wait for it to get out of the loop for about 30 minutes now) so I'm skipping it
+
 Mining Twitter
 
+This was probably one of the more troublesome parts due to trying to get a consumer key. It's a bit more difficult to get a consumer key on your own (have to apply for it and get it approved) so I opted to ask the professor for his. When he  replied, I tried it out but it redirected to a page that said "Your PHP installation appears to be missing the MySQL extension which is required by WordPress.". Looking into this a bit more, it looks like its redirecting to the base site of the professors site...which is strange. In either case, I cannot get the PIN that is needed to move forward so will ask the Slack thread and see if anyone can help.  
+Update: This is a bit of a fumbled on my end - he tells you what exactly to look in the next section. It is actually the oauth_verifier parameter not the oauth_token key that you are looking for however  
 
-Tesseract
+Tesseract  
 
+It was interesting using Tesseract from the command line and then in R and seeing the differences between how they process the data and either get drastically or gradually different.  I especially liked being able to batch convert the images!  
 
-
-
-
-Ask yourself: what are some of the key dangers? Reflect: how have you used digitized resources uncritically in the past? Remember: To digitize doesn't — or shouldn't — mean uploading a photograph of a document. 
+Ask yourself: what are some of the key dangers? Reflect: how have you used digitized resources uncritically in the past? Remember: To digitize doesn't — or shouldn't — mean uploading a photograph of a document.  
+I've used digitized resources probably pretty irresponsibly in the past (and likely here and there). I've actually done a couple speeches at things like Toastmasters where I've disseminated (or tried to) information that I thought was interesting such as space, theology, health, etc. I've never gone too far into properly giving credit or sourcing where I got the information or pictures in my presentations simply due to the somewhat informal nature of it all and perhaps my overtrust on the sources where I got this information from. I think trying to be more mindful of how these digitized resources and sources should be used moving forward is something that I need to work on and likely needs a bit more thought for others as well.
 
 ## Reflection on readings: 
 
