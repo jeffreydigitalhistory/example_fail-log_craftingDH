@@ -21,7 +21,7 @@ I liked that we also did a bit of Python scripting - I won't include it since it
 
 Encoding the transcription was definitely something new I've never done before and made me really dive into the content and check for specific people, places and arguments that could be important. 
 
-
+The line that you would need to change the xml to point to the new xsl is the href at the top of the xml file that currently references the other one.
 
 ## Comments/Concerns
 
