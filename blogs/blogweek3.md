@@ -10,6 +10,32 @@ Activities for this week:
 - Collecting data from Twitter  
 - Coverting images to text with Tesseract  
 
+The Dream Case was a straightforward section - search keywords in a database, export them and record them in a file.
+
+Wget was an interesting one! I've played around with this before for scraping things but I really didn't know it was this powerful! The only downside seems to be that it is single threaded but even so the ability to put delays and restrict download speed to not overload servers are very cool options that I didn't know existed. I also liked using Python and look forward to potentially learning and using it more for retrieving data, especially when used in conjunction with wget!
+
+TEI
+
+*Questions*  
+http://www.recoveredhistories.org/  
+What makes you believe this site is a trustworthy provider of historical texts?  
+- Contact information is explcitly listed and linked to a trustworthy site (antislavery.org) as well as a number of other reputable organizations
+- Going through some of the source texts looks legitimate and not made up
+What makes you believe this site is NOT a trustworthy provider of historical texts?  
+- It looks a bit "ghetto" since its old fashioned
+- Information can be faked out although they would have taken great effort to do so  
+
+APIS
+
+Mining Twitter
+
+
+Tesseract
+
+
+
+
+
 Ask yourself: what are some of the key dangers? Reflect: how have you used digitized resources uncritically in the past? Remember: To digitize doesn't — or shouldn't — mean uploading a photograph of a document. 
 
 ## Reflection on readings: 
