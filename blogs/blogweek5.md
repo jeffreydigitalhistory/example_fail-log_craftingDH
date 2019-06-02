@@ -5,3 +5,6 @@
 ## Reflection on exercises:
 
 Activities for this week:  
+
+
+## Connections between readings and exercises
