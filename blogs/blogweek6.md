@@ -1,11 +1,10 @@
 # Week 6 Reflections:
 
-
 ## Activities for this week:  
 - Set up website  
 I actually set up part of the website earlier in the course since I thought that was where we were initially supposed to be hosting all of our blogs on. Therefore, for Option 1, I was already at least halfway through. Interestingly enough, I didn't know there were built in themes so it was cool to be able to learn about that and potentially use it for my other github account.  
 - Capstone exercise
-What I decided to work on for the Capstone exercise is Option Two - extending an existing work of digital history. I picked Ryan Pickering's OK Google: Residential Schools because it seems like an interesting topic to discuss and think about.
-
-
-your successes, your failures, the help you may have found/received
+What I decided to work on for the Capstone exercise is Option Two - extending an existing work of digital history. I picked Ryan Pickering's OK Google: Residential Schools because it seems like an interesting topic to discuss and think about. Another reason I chose it was because I found myself contemplating too much on how I would try and approach an empty dataset and do things with it in a meaningful mannner. In that sense, I think my inexperience in the field of history has proven to be a bit of a hindrance and I was unsure of how I would ultimately try and approach the topics.  
+Therefore, on the subject of what to do for the extension of Ryan's project, I wanted to focus on his methodologies and trying to improve them. In that sense I played with many different various of the Google Trends graphs to try and find meaningful patterns. In particular, I was a little disheartened when the topic model that I thought would have proved some sort of point fell flat and only yielded slightly different results.   
+Another thing I did note was that the tools used in the previous section were not necessarily useful in an extension of a project. I could have possibly tried to be more creative and find different conclusions based on the idea of indigenous people as a topic, but I thought it would have been more prudent to try and expand more on the author's methodologies instead. Topic modelling and other sort of text analysis are still very cool and useful, but probably not in terms of this particular project.  
+Overall, I thought this was a cool exercise to try and find different conclusions on our own, even though I don't necessarily think I did the best job of it!  
